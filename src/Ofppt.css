@@ -1,0 +1,7 @@
+.ofppt p {
+	background-color: rgb(255, 246, 240);
+	padding: 40px;
+	margin: 40px auto;
+	border-radius: 10px;
+	line-height: 32px;
+}

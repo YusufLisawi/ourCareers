@@ -1,0 +1,12 @@
+.header {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+}
+
+.header {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.36);
+	padding-bottom: 10px;
+}

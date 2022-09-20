@@ -1,0 +1,18 @@
+.navs {
+	display: flex;
+	gap: 20px;
+	list-style: none;
+	align-items: center;
+	justify-content: center;
+	padding-left: 0px;
+}
+
+.navs li * {
+	text-decoration: none;
+	color: black;
+	font-weight: 500;
+	transition: all linear 100ms;
+}
+.navs li *:hover {
+	color: #e8692e;
+}
